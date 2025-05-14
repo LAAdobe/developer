@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://drive.google.com/drive/folders/1JPXoiOsThHAAdpwf2T1x7nHnBLhW3xna"
+    url: "https://author-p145241-e1493300.adobeaemcloud.com//bin/franklin.delivery/laadobe/developer/main"
     type: "markup"
     suffix: ".html"
